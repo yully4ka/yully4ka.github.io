@@ -1,0 +1,22 @@
+{"fylkestopper": [
+    {"name": "Fjellsjøkampen", "fylke": "Akershus", "height": 812},
+    {"name": "Folarskardnuten", "fylke": "Buskerud", "height": 1933},
+    {"name": "Galdhøpiggen", "fylke": "Oppland", "height": 2469},
+    {"name": "Gaustatoppen", "fylke": "Telemark", "height": 1883},
+    {"name": "Hardangerjøkulen", "fylke": "Hordaland", "height": 1861},
+    {"name": "Jetnamsklumpen", "fylke": "Nord-Trøndelag", "height": 1512},
+    {"name": "Jiehkkevárri", "fylke": "Troms", "height": 1834},
+    {"name": "Kjerkeberget", "fylke": "Oslo", "height": 630},
+    {"name": "Oksskolten", "fylke": "Nordland", "height": 1915},
+    {"name": "Pyttegga", "fylke": "Møre og Romsdal", "height": 1999},
+    {"name": "Rondslottet", "fylke": "Hedmark", "height": 2178},
+    {"name": "Slavasshøgda", "fylke": "Østfold", "height": 336},
+    {"name": "Store Skagastølstindenøgda", "fylke": "Sogn og Fjordane", "height": 2405},
+    {"name": "Storskrymten", "fylke": "Sør-Trøndelag", "height": 1985},
+    {"name": "Sæbyggjenuten", "fylke": "Aust-Agder", "height": 1507},
+    {"name": "Urdalsknuten", "fylke": "Vest-Agder", "height": 1433},
+    {"name": "Vassdalseggi", "fylke": "Rogaland", "height": 1658},
+    {"name": "Vestfjellet", "fylke": "Vestfold", "height": 634},
+    {"name": "Øksfjordjøkelen", "fylke": "Finnmark", "height": 1191}
+]
+}
